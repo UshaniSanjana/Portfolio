@@ -1,0 +1,25 @@
+.home-social-icons {
+    font-size: 2rem; /* Adjust icon size */
+    color: white; /* Set icon color to white */
+    margin: 0 10px; /* Add horizontal spacing */
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 20px;
+
+  }
+  
+  .home-social-icons:hover {
+    transform: scale(1.2); /* Optional hover effect */
+  }
+
+  
+
+  /* Footer.css */
+.footer-container h1 {
+    color: white; /* Change text color */
+    font-size: 1rem; /* Adjust text size */
+    font-weight: bold; /* Make text bold (optional) */
+    text-align: center; /* Center the text */
+    margin-bottom: 5px; /* Add space below the heading */
+    margin-top: 20px;
+  }
+  
